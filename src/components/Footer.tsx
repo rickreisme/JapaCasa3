@@ -18,7 +18,7 @@ const Footer = () => {
 
                         <div className="credits">Desenvolvido por</div>
 
-                        <a target="_blank" href="https://rickreis.dev.br">
+                        <a target="_blank" href="https://rickreis.com.br/dev">
                             <img
                                 src={rickreisLogo}
                                 alt="Logo rickreis"
